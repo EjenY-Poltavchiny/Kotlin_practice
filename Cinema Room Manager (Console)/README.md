@@ -1,3 +1,5 @@
+https://github.com/EjenY-Poltavchiny/Kotlin_practice/blob/master/Cinema%20Room%20Manager%20(Console)/logo%20src/hyper_logo.png
+
 # Cinema Room Manager
 
 **Implementation** of my **first project** form **Hyperskill** $\textcolor{violet}{\textbf{Kotlin track}}$.
