@@ -1,3 +1,3 @@
 # Kotlin_practice
 
-You have to switch branch to **master**.
+Some of mine **Kotlin** projects implementation during my **Kotlin Core** course.
