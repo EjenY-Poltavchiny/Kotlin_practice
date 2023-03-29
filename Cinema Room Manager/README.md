@@ -1,4 +1,4 @@
-<img src="logo%20src/hyper_logo.png" alt="drawing" width="150"/>
+<img src="hyper_logo.png" alt="drawing" width="150"/>
 
 # Cinema Room Manager
 
